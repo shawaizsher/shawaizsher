@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student at **Bahria University**, passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.  
+I'm a Software Engineering student, passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing (NLP)**.  
 I’m currently exploring **Computer Vision** and building intelligent systems using **Python** and **modern AI frameworks**.  
 My goal is to leverage AI to solve real-world problems through data-driven and model-based approaches.  
 
