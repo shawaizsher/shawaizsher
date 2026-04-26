@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo_banner.svg" width="180" alt="S Logo" />
+<img src="https://i.ibb.co/RGHbxbGk/logo-banner.jpg" width="180" alt="S Logo" />
 
 ```
 ███████╗██╗  ██╗ █████╗ ██╗    ██╗ █████╗ ██╗███████╗
