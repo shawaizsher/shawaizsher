@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="220" alt="S Logo" />
+<img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="380" alt="S Logo" />
 
 <h1>Shawaiz</h1>
 
