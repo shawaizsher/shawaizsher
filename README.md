@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://i.ibb.co/RGHbxbGk/logo-banner.jpg" width="180" alt="S Logo" />
+<img src="https://i.ibb.co/RGHbxbGk/logo-banner.jpg" width="160" alt="S Logo" />
 
-```
-███████╗██╗  ██╗ █████╗ ██╗    ██╗ █████╗ ██╗███████╗
-██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗██║╚══███╔╝
-███████╗███████║███████║██║ █╗ ██║███████║██║  ███╔╝ 
-╚════██║██╔══██║██╔══██║██║███╗██║██╔══██║██║ ███╔╝  
-███████║██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝
-```
+<h1>Shawaiz</h1>
 
-### `Building Intelligent Systems · One Model at a Time`
+<p><em>Building Intelligent Systems · One Model at a Time</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=D980FA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+Bahria+University;Machine+Learning+%26+Deep+Learning+Enthusiast;NLP+%7C+Computer+Vision+%7C+MLOps;Building+end-to-end+AI+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=D980FA&center=true&vCenter=true&width=500&lines=Software+Engineering+%40+Bahria+University;Machine+Learning+%26+Deep+Learning;NLP+%7C+Computer+Vision+%7C+MLOps;Building+end-to-end+AI+pipelines)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=shawaizsher&color=9B30D9&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -49,7 +46,7 @@ goal: >
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="coding gif" />
 
 </td>
 </tr>
@@ -85,8 +82,9 @@ goal: >
 ![GCP](https://img.shields.io/badge/Google_Cloud-7B2FBE?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-9B30D9?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-C355F5?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7B2FBE?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-9B30D9?style=flat-square&logo=github&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-7B2FBE?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9B30D9?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C355F5?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -128,11 +126,5 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure — production-ready deploymen
 ---
 
 <div align="center">
-
-```
- [ Building at the intersection of code and intelligence ]
-```
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=shawaizsher&label=Profile%20Views&color=9&icon=5&pretty=true)
-
+<sub><code>Building at the intersection of code and intelligence</code></sub>
 </div>
