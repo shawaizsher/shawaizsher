@@ -4,8 +4,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2FBE,50:9B30D9,100:C355F5&section=header&text=Shawaiz&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Building%20Intelligent%20Systems%20%C2%B7%20One%20Model%20at%20a%20Time&descAlignY=60&descSize=14" alt="Animated Shawaiz header" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Building%20Intelligent%20Systems&fontSize=26&fontColor=FFFFFF&animation=twinkling&fontAlignY=45&desc=One%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated AI systems banner" />
+
+<img>src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Building%20Intelligent%20Systems&fontSize=26&fontColor=FFFFFF&animation=twinkling&fontAlignY=45&desc=One%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated AI systems banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=D980FA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=42&lines=Software+Engineering+%40+Bahria+University;Machine+Learning+%26+Deep+Learning;NLP+%7C+Computer+Vision+%7C+MLOps;Building+end-to-end+AI+pipelines;Turning+models+into+production+systems)](https://git.io/typing-svg)
 
