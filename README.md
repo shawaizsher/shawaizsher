@@ -1,14 +1,15 @@
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-900a-4d58-b1f8-3b66a36c3a27.gif" width="285" alt="Animated coding workspace" />
+<div align="center">
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="390" alt="Shawaiz logo banner" />
+<img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="720" alt="Shawaiz logo banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2300&pause=500&color=E0AAFF&center=true&vCenter=true&width=330&height=32&lines=train+%E2%86%92+evaluate+%E2%86%92+deploy;data+%E2%86%92+model+%E2%86%92+impact;research+%E2%86%92+build+%E2%86%92+ship" alt="ML workflow typing animation" />
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7B2FBE,50:9B30D9,100:C355F5&section=header&text=Shawaiz&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Building%20Intelligent%20Systems%20%C2%B7%20One%20Model%20at%20a%20Time&descAlignY=60&descSize=14" alt="Animated Shawaiz header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Building%20Intelligent%20Systems&fontSize=26&fontColor=FFFFFF&animation=twinkling&fontAlignY=45&desc=One%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated AI systems banner" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=D980FA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=42&lines=Software+Engineering+%40+Bahria+University;Machine+Learning+%26+Deep+Learning;NLP+%7C+Computer+Vision+%7C+MLOps;Building+end-to-end+AI+pipelines;Turning+models+into+production+systems)](https://git.io/typing-svg)
+
 
 ## 🛠 Tech Stack
 
