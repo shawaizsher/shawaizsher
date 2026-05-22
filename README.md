@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="390" alt="Shawaiz logo banner" />
 <img src="https://raw.githubusercontent.com/shawaizsher/shawaizsher/main/logo_banner.svg" width="720" alt="Shawaiz logo banner" />
 
 <br/>
