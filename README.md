@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Building%20Intelligent%20Systems&fontSize=26&fontColor=FFFFFF&animation=twinkling&fontAlignY=45&desc=One%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated AI systems banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Building%20Intelligent%20Systems&fontSize=26&fontColor=FFFFFF&animation=true" alt="Header banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=D980FA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=42&lines=Software+Engineering+%40+Bahria+University;Machine+Learning+%26+Deep+Learning;NLP+%7C+Computer+Vision+%7C+MLOps;Building+end-to-end+AI+pipelines;Turning+models+into+production+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=D980FA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=100)](https://github.com/shawaizsher)
 
 
 ## 🛠 Tech Stack
@@ -59,7 +59,7 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shawaizsher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shawaizsher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,PullRequests" alt="GitHub trophies" />
 
 </div>
 
@@ -70,7 +70,7 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shawaizsher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A2E&title_color=D980FA&icon_color=C355F5&text_color=E0AAFF&count_private=true" alt="Shawaiz GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shawaizsher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A2E&title_color=D980FA&icon_color=C355F5&text_color=E0AAFF" alt="Shawaiz GitHub stats" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizsher&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A0A2E&title_color=D980FA&text_color=E0AAFF" alt="Shawaiz top languages" />
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawaizsher&theme=tokyonight" alt="Shawaiz GitHub stats card" />
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shawaizsher&theme=tokyonight" alt="Shawaiz most used languages card" />
@@ -78,7 +78,7 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 <br/>
 
 
-<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=shawaizsher&theme=tokyonight&hide_border=true&background=1A0A2E&stroke=D980FA&ring=D980FA&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D980FA&sideLabels=D980FA&dates=9B7EC8" alt="Shawaiz GitHub streak" />
+<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=shawaizsher&theme=tokyonight&hide_border=true&background=1A0A2E&stroke=D980FA&ring=D980FA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E0AAFF" alt="GitHub streak stats" />
 
 </div>
 
@@ -88,7 +88,7 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaizsher&bg_color=1A0A2E&color=E0AAFF&line=D980FA&point=F472B6&area=true&area_color=9B30D9&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="96%" alt="Shawaiz contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shawaizsher&bg_color=1A0A2E&color=E0AAFF&line=D980FA&point=F472B6&area=true&area_color=9B30D9&hide_border=true&custom_title=Shawaiz's%20GitHub%20Activity%20Graph" alt="Shawaiz GitHub activity graph" />
 
 <br/>
 
