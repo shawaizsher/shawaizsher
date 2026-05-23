@@ -67,7 +67,6 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 
 ## 📊 `stats --verbose`
 
-
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shawaizsher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A0A2E&title_color=D980FA&icon_color=C355F5&text_color=E0AAFF" alt="Shawaiz GitHub stats" />
@@ -76,7 +75,6 @@ commit 91d4e3a  [ACTIVE]   MLflow · GCP · Azure -- production-ready deployment
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shawaizsher&theme=tokyonight" alt="Shawaiz most used languages card" />
 
 <br/>
-
 
 <img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=shawaizsher&theme=tokyonight&hide_border=true&background=1A0A2E&stroke=D980FA&ring=D980FA&fire=F472B6&currStreakNum=FFFFFF&sideNums=E0AAFF" alt="GitHub streak stats" />
 
