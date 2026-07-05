@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Securing%20%26%20Scaling%20Systems&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=One%20Threat%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated cybersecurity/cloud banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=82&color=0:1A0A2E,50:7B2FBE,100:C355F5&section=header&text=Securing%20and%20Scaling%20Systems&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=One%20Threat%20Model%20at%20a%20Time&descAlignY=72&descSize=13" alt="Animated cybersecurity/cloud banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=D980FA&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=42&lines=Software+Engineering+%40+Bahria+University;Cybersecurity+%7C+Cloud+Computing+%7C+AI+Automation;Web+App+Penetration+Testing+%26+OWASP+Top+10;Cloud-Native+Architecture+on+AWS+%26+Azure;Building+automated%2C+secure+pipelines)](https://git.io/typing-svg)
 
