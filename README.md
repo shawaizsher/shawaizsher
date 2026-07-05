@@ -64,16 +64,6 @@ commit 2d9b415  [ACTIVE]   Recon & Methodology -- DNS fundamentals, OWASP Top 10
 
 ---
 
-## 🏆 `trophies --github`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shawaizsher&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,Experience" alt="GitHub profile trophies" />
-
-</div>
-
----
-
 ## 📊 `stats --verbose`
 
 <div align="center">
